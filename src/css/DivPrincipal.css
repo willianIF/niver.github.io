@@ -1,0 +1,15 @@
+#div-principal {
+    display: flex;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(129, 7, 243);
+}
+
+#div-principal #box {
+    display: flex;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../image/1942569.svg');
+}
